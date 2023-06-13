@@ -17,6 +17,6 @@ Dependencies:
 Python 3.x
 smtplib library
 
-	Feel free to modify and enhance the script to fit your specific requirements. 
-  Contributions and suggestions are welcome. (Please note that this script uses the 
-  smtplib library and requires a valid SMTP server connection.)
+Feel free to modify and enhance the script to fit your specific requirements. 
+Contributions and suggestions are welcome. (Please note that this script uses the 
+smtplib library and requires a valid SMTP server connection.)
